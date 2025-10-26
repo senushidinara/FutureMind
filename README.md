@@ -47,7 +47,11 @@
 ![Operations Suite](https://img.shields.io/badge/Operations%20Suite-Monitoring%20%26%20Logs-34A853.svg?logo=googlecloud)
 ![Billing](https://img.shields.io/badge/Cloud%20Billing-Cost%20Management-4285F4.svg?logo=googlecloud)
 ## ⸻
-
+<p align="center">
+  <img src="https://github.com/senushidinara/FutureMind/blob/main/IMG_3579.jpeg?raw=true" width="30%" />
+  <img src="https://github.com/senushidinara/FutureMind/blob/main/IMG_3580.jpeg?raw=true" width="30%" />
+  <img src="https://github.com/senushidinara/FutureMind/blob/main/IMG_3582.jpeg?raw=true" width="30%" />
+</p>
 ## 🎯 What This App Does  
 ```
 FutureMind Pro combines 🧬 psychological science, 📊 behavioral analytics, and 🤖 AI pattern recognition to make scientifically accurate predictions about your future — from 💼 career and 🧘‍♀️ health to 💞 relationships and 🌱 personal growth.  
