@@ -1,6 +1,7 @@
 
 
-# 🔮 FUTUREMIND PRO  
+### 🔮 FUTUREMIND PRO  
+
 ### *🧠 Scientifically Accurate Future Prediction App 🔍*
 
 ---
@@ -52,6 +53,7 @@
   <img src="https://github.com/senushidinara/FutureMind/blob/main/IMG_3580.jpeg?raw=true" width="30%" />
   <img src="https://github.com/senushidinara/FutureMind/blob/main/IMG_3582.jpeg?raw=true" width="30%" />
 </p>
+
 ## 🎯 What This App Does  
 ```
 FutureMind Pro combines 🧬 psychological science, 📊 behavioral analytics, and 🤖 AI pattern recognition to make scientifically accurate predictions about your future — from 💼 career and 🧘‍♀️ health to 💞 relationships and 🌱 personal growth.  
