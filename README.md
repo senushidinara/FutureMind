@@ -8,19 +8,23 @@
 ## ⸻
 
 ## 🎯 What This App Does  
+```
 FutureMind Pro combines 🧬 psychological science, 📊 behavioral analytics, and 🤖 AI pattern recognition to make scientifically accurate predictions about your future — from 💼 career and 🧘‍♀️ health to 💞 relationships and 🌱 personal growth.  
 ✨ This isn’t fortune-telling — it’s 🔬 science-backed human prediction.
+```
 
 ---
 
 <details>
 <summary>🧬 <b>Scientific Foundation</b></summary>
 
+```
 Based on proven psychological models and research:  
 • 🧠 Behavioral Patterns – Past actions predict future decisions  
 • 🧭 Personality Traits – Big Five (OCEAN) personality framework  
 • 🧩 Cognitive Biases – Understanding how thinking skews outcomes  
-• 📈 Life Trajectories – Data patterns from millions of life histories  
+• 📈 Life Trajectories – Data patterns from millions of life histories
+```
 
 ```python
 def analyze_psychological_patterns(user_responses):
@@ -93,13 +97,14 @@ def detect_hidden_truths(answers, voice_analysis):
 <details>
 <summary>📊 <b>Scientific Prediction Pipeline</b></summary>
 
-
+```
 🧾 Step 1: Data Collection
 
 • 🧠 Personality metrics
 • 📜 Behavioral history
 • 🎙️ Voice tone & stress
 • 🧠 Decision-making biases
+```
 
 🧠 Step 2: Pattern Recognition
 
@@ -176,10 +181,11 @@ def predict_decision_patterns():
 
 
 🚀 Technical Innovation
-
+```
 • 🎙️ Real voice analysis (not just speech-to-text)
 • 🧠 Psychological AI understanding human behavior
 • 📊 Predictive algorithms with scientific validation
+```
 
 💡 Business Value
 ```
@@ -191,11 +197,12 @@ market_opportunities = {
 ```
 
 🌍 Social Impact
-
+```
 • 🧠 Helps users understand themselves deeply
 • 🛑 Prevents poor life choices
 • 🧘‍♂️ Promotes mental health awareness
 • 🤝 Bridges psychology and AI for good
+```
 
 </details>
 
