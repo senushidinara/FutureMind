@@ -156,12 +156,13 @@ def predict_decision_patterns():
 <details>
 <summary>🧩 <b>Core Features</b></summary>
 
-
+```
 🛠️ Feature	📌 Description	🎯 Accuracy
 🧠 Personality Assessment	Big Five model with ML calibration	92%
 🗣️ Voice Emotion Detection	AI voice-stress and tone mapping	89%
 💬 Truth Detection	Detects hidden fears or doubts	87%
 📈 Life Prediction Engine	Statistical modeling from global data	83%
+```
 
 </details>
 
@@ -181,12 +182,13 @@ def predict_decision_patterns():
 • 📊 Predictive algorithms with scientific validation
 
 💡 Business Value
-
+```
 market_opportunities = {
     "therapy_tool": "$200/session → $20/month AI coach",
     "career_coaching": "More accurate than human advisors",
     "HR analytics": "Predicts employee burnout before it happens"
 }
+```
 
 🌍 Social Impact
 
@@ -205,9 +207,9 @@ market_opportunities = {
 <details>
 <summary>🧪 <b>Core Engine Example</b></summary>
 
-
+```
 class ScientificFuturePredictor:
-    ```
+    
     def __init__(self):
         self.psychological_profiles = load_clinical_data()
         self.voice_analysis_tools = setup_voice_tech()
@@ -225,6 +227,7 @@ class ScientificFuturePredictor:
         if voice_analysis["stress_level"] > 0.6:
             predictions.append("Potential health risk within 2 years")
         return predictions
+```
 
         
 
@@ -238,13 +241,14 @@ class ScientificFuturePredictor:
 <details>
 <summary>🎤 <b>Live Demo Example</b></summary>
 
-
+```
 App: “🎯 What’s one thing you’ve been putting off?”
 User: “🎹 Learning piano, I never have time.”
 [Voice analysis: genuine excitement, mild stress]
 
 App: “🔮 Prediction — 78% chance you’ll start within 3 months
 if you schedule consistent 15-minute sessions.”
+```
 
 </details>
 
@@ -257,12 +261,13 @@ if you schedule consistent 15-minute sessions.”
 <summary>📈 <b>Validation Results</b></summary>
 
 
+```
 📊 Metric	🧪 Source	📌 Correlation
 🧠 Personality Accuracy	Clinical Big Five dataset	0.92
 🧠 Behavior Prediction	Longitudinal data (6 months)	0.87
 🎙️ Voice Emotion Detection	Human expert comparison	0.89
 🔮 Life Outcome Prediction	1-year follow-up	0.83
-
+```
 </details>
 
 
@@ -273,11 +278,12 @@ if you schedule consistent 15-minute sessions.”
 <details>
 <summary>⚙️ <b>Implementation Simplicity</b></summary>
 
-
+```
 	1.	🎤 Record user voice
 	2.	🧠 Analyze personality + behavior
 	3.	🔍 Detect truth patterns
 	4.	📊 Generate scientific predictions
+```
 
 </details>
 
@@ -386,7 +392,7 @@ if you schedule consistent 15-minute sessions.”
 ⸻
 
 🏁 Summary
-
+```
 ✅ Description: Scientific AI-based prediction
 🔬 Science-Based: Built on psychology, not pseudoscience
 🗣️ Voice AI: Reads emotion, honesty, and intent
@@ -394,5 +400,5 @@ if you schedule consistent 15-minute sessions.”
 💡 Impact: Improves self-awareness and decision-making
 
 ✨ Not magic. Not mysticism. Pure human science. 🔬
-
+```
 ---
