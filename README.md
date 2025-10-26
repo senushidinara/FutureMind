@@ -4,7 +4,13 @@
 ### *🧠 Scientifically Accurate Future Prediction App 🔍*
 
 ---
-
+![GCP](https://img.shields.io/badge/GCP-Cloud%20Platform-blue?logo=google-cloud)
+![Compute Engine](https://img.shields.io/badge/Compute%20Engine-4285F4?logo=googlecloud)
+![GKE](https://img.shields.io/badge/GKE-Kubernetes-34A853?logo=kubernetes)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-Serverless-4285F4?logo=googlecloud)
+![BigQuery](https://img.shields.io/badge/BigQuery-Analytics-34A853?logo=googlecloud)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-ML%20Ops-4285F4?logo=googlecloud)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-Storage-4285F4?logo=googlecloud)
 ## ⸻
 
 ## 🎯 What This App Does  
