@@ -46,7 +46,7 @@ def analyze_psychological_patterns(user_responses):
 
 
 Your voice reveals truth your words don’t. 🎤💬
-
+```
 def analyze_voice_scientifically(voice_recording):
     insights = {
         "vocal_pitch": "Stress levels and emotional state",
@@ -55,6 +55,7 @@ def analyze_voice_scientifically(voice_recording):
         "energy_level": "Motivation and depression signs"
     }
     return insights
+```
 
 💬 “When you spoke about ✈️ travel, your voice rose by 23% — indicating genuine excitement.
 🔮 Prediction: You’ll prioritize travel in future decisions.”
@@ -102,15 +103,17 @@ def detect_hidden_truths(answers, voice_analysis):
 
 🧠 Step 2: Pattern Recognition
 
+```
 def recognize_life_patterns(user_data):
     return {
         "risk_aversion_pattern": "Predicts financial stability",
         "learning_velocity": "Predicts skill acquisition speed"
     }
-
+```
 📈 Step 3: Statistical Projection
 
-```def statistical_future_projection(user_profile):
+```
+def statistical_future_projection(user_profile):
     return {
         "career_success": "87% probability",
         "relationship_stability": "73%",
@@ -134,7 +137,7 @@ def recognize_life_patterns(user_data):
 	1.	📉 Behavioral Economics – Bias detection (loss aversion, sunk cost, confirmation bias)
 	2.	🧬 Personality Psychology – Big Five predictive modeling
 	3.	🎙️ Voice Stress Analysis – Emotional microtremor & truth mapping
-
+```
 def predict_decision_patterns():
     return [
         "Loss aversion",
@@ -142,7 +145,7 @@ def predict_decision_patterns():
         "Confirmation bias",
         "Sunk cost fallacy"
     ]
-
+```
 </details>
 
 
